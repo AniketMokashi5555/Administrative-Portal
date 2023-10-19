@@ -66,16 +66,14 @@ The goal of this project is to apply servlet, jsp and JDBC concepts.
 
 Screenshots:
 
-![image](https://user-images.githubusercontent.com/64940728/120771774-47dd9600-c528-11eb-86c8-ee8a1b133a23.png)
 
-![image](https://user-images.githubusercontent.com/64940728/120771806-4e6c0d80-c528-11eb-97bb-8abe14d8560c.png)
+![Screenshot (137)](https://github.com/AniketMokashi5555/Administrative-Portal/assets/54226223/bf0f7f51-6ef8-47d6-a742-4a3f7152ded4)
 
-![image](https://user-images.githubusercontent.com/64940728/120771819-51ff9480-c528-11eb-98fe-39b7767b8de6.png)
+![Screenshot (132)](https://github.com/AniketMokashi5555/Administrative-Portal/assets/54226223/444d5a64-eb48-45ae-9cc0-2e4aa629e49a)
 
-![image](https://user-images.githubusercontent.com/64940728/120771833-54fa8500-c528-11eb-9291-2ab6c81528f3.png)
+![Screenshot (133)](https://github.com/AniketMokashi5555/Administrative-Portal/assets/54226223/1e4174b4-e99c-4abd-8dbe-0ac45d18acfd)
 
-![image](https://user-images.githubusercontent.com/64940728/120771849-588e0c00-c528-11eb-89d0-fbc960d1562e.png)
+![Screenshot (134)](https://github.com/AniketMokashi5555/Administrative-Portal/assets/54226223/01a633aa-a956-4634-91c7-0f12ae676f0e)
 
-![image](https://user-images.githubusercontent.com/64940728/120771867-5c219300-c528-11eb-8aed-e8d137640817.png)
-
+![Screenshot (135)](https://github.com/AniketMokashi5555/Administrative-Portal/assets/54226223/2ac09876-41ed-4533-ae3d-171e12b6e2c8)
 
